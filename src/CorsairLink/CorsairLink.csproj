@@ -10,6 +10,7 @@
   <ItemGroup>
     <PackageReference Include="HidSharp" Version="2.1.0" />
     <PackageReference Include="System.Memory" Version="4.5.4" />
+    <PackageReference Include="topshelf" Version="4.3.0" />
   </ItemGroup>
 
   <ItemGroup>
